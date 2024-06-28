@@ -1,4 +1,4 @@
-import 'regenerator-runtime/runtime'
+import 'regenerator-runtime/runtime.js'
 
 import expressMiddleware from './express/middleware'
 import { PyroscopeProfiler } from './profilers/pyroscope-profiler'
